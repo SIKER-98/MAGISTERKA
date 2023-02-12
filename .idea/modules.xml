@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/PyCharm/MAGISTERKA/.idea/MAGISTERKA.iml" filepath="D:/PyCharm/MAGISTERKA/.idea/MAGISTERKA.iml" />
+      <module fileurl="file://D:/DataspellProjects/NO_lab/.idea/NO_lab.iml" filepath="D:/DataspellProjects/NO_lab/.idea/NO_lab.iml" />
+      <module fileurl="file://D:/PyCharm/RO_Gym/.idea/RO_Gym.iml" filepath="D:/PyCharm/RO_Gym/.idea/RO_Gym.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/RockPaperScisors/.idea/RockPaperScisors.iml" filepath="$USER_HOME$/DataspellProjects/RockPaperScisors/.idea/RockPaperScisors.iml" />
+      <module fileurl="file://D:/DataspellProjects/Kaggle/.idea/Titanic.iml" filepath="D:/DataspellProjects/Kaggle/.idea/Titanic.iml" />
+      <module fileurl="file://D:/DataspellProjects/flowers/flowers/.idea/flowers.iml" filepath="D:/DataspellProjects/flowers/flowers/.idea/flowers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
